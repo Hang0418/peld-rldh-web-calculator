@@ -4,6 +4,10 @@
 
 Online calculator: <https://hang0418.github.io/peld-rldh-web-calculator/>
 
+## Calculator interface
+
+![PELD-RLDH browser calculator interface](assets/calculator-preview.png)
+
 This repository intentionally publishes only the minimum code and data needed to
 inspect, reproduce, test, and serve the frozen browser equation. It does not
 contain the original application framework, database scaffolding, worker code,
@@ -52,4 +56,3 @@ because browsers restrict local-file access to the JSON model specification.
 This is a research and reproducibility companion, not a clinical directive. The
 model does not estimate treatment effects. Local validation and prospective
 impact evaluation are required before routine clinical implementation.
-
